@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MickaelRasolofoniaina
-- 👀 I’m interested in web and mobile development. My favorites technologies are those who derived from Javascript such as React JS, React Native, Nest JS, Next JS and more...
+- 👀 I’m a .NET and React (JS, Native) developer from Madagascar
 - ✨ In my free time, I love learning new technologies and frameworks, and project management 👀
 
 <!---
